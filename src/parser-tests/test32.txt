@@ -1,0 +1,30 @@
+~~~ INPUT ~~~
+<html>
+   <head>
+     <script  >
+        function blah(blah) {
+            document.writeln ("</script>");
+            window.document.writeln ("</scr" + "ipt>");
+        }
+     </ScRIPT >
+     <link stuff>
+   </head>
+</html>
+~~~ TITLE ~~~
+
+~~~ PROPERTIES ~~~
+
+title=
+
+~~~ HEAD ~~~
+     <script  >
+        function blah(blah) {
+            document.writeln ("</script>");
+            window.document.writeln ("</scr" + "ipt>");
+        }
+     </ScRIPT >
+     <link stuff>
+
+~~~ BODY ~~~
+
+

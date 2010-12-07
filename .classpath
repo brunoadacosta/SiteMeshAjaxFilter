@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="lib/commons-collections.jar"/>
+	<classpathentry kind="lib" path="lib/crimson.jar"/>
+	<classpathentry kind="lib" path="lib/freemarker.jar"/>
+	<classpathentry kind="lib" path="lib/hostedqa-remote-ant-1.0-20060901.190754-5-standalone.jar"/>
+	<classpathentry kind="lib" path="lib/jaxp.jar"/>
+	<classpathentry kind="lib" path="lib/jflex.jar"/>
+	<classpathentry kind="lib" path="lib/junit-3.8.1.jar"/>
+	<classpathentry kind="lib" path="lib/servlet.jar"/>
+	<classpathentry kind="lib" path="lib/tapestry-3.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/velocity-dep-1.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/velocity-tools-view-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/RegExPlus.jar"/>
+	<classpathentry kind="lib" path="lib/htmlcompressor-0.9.1.jar"/>
+	<classpathentry kind="lib" path="lib/gson-1.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
